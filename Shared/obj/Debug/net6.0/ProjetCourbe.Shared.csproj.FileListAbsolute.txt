@@ -1,0 +1,12 @@
+/Users/yanchabrerie/Projects/ProjetCourbe/Shared/bin/Debug/net6.0/ProjetCourbe.Shared.deps.json
+/Users/yanchabrerie/Projects/ProjetCourbe/Shared/bin/Debug/net6.0/ProjetCourbe.Shared.dll
+/Users/yanchabrerie/Projects/ProjetCourbe/Shared/bin/Debug/net6.0/ProjetCourbe.Shared.pdb
+/Users/yanchabrerie/Projects/ProjetCourbe/Shared/obj/Debug/net6.0/ProjetCourbe.Shared.csproj.AssemblyReference.cache
+/Users/yanchabrerie/Projects/ProjetCourbe/Shared/obj/Debug/net6.0/ProjetCourbe.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yanchabrerie/Projects/ProjetCourbe/Shared/obj/Debug/net6.0/ProjetCourbe.Shared.AssemblyInfoInputs.cache
+/Users/yanchabrerie/Projects/ProjetCourbe/Shared/obj/Debug/net6.0/ProjetCourbe.Shared.AssemblyInfo.cs
+/Users/yanchabrerie/Projects/ProjetCourbe/Shared/obj/Debug/net6.0/ProjetCourbe.Shared.csproj.CoreCompileInputs.cache
+/Users/yanchabrerie/Projects/ProjetCourbe/Shared/obj/Debug/net6.0/ProjetCourbe.Shared.dll
+/Users/yanchabrerie/Projects/ProjetCourbe/Shared/obj/Debug/net6.0/refint/ProjetCourbe.Shared.dll
+/Users/yanchabrerie/Projects/ProjetCourbe/Shared/obj/Debug/net6.0/ProjetCourbe.Shared.pdb
+/Users/yanchabrerie/Projects/ProjetCourbe/Shared/obj/Debug/net6.0/ref/ProjetCourbe.Shared.dll
