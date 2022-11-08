@@ -8,35 +8,35 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
-        "HashCode": -1621952229,
+        "HashCode": -852698727,
         "Kind": "Components.Component",
-        "Name": "ProjetCourbe.Client.Pages.Index",
+        "Name": "ProjetCourbe.Client.App",
         "AssemblyName": "ProjetCourbe.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Index"
+            "TagName": "App"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "ProjetCourbe.Client.Pages.Index"
+          "Common.TypeName": "ProjetCourbe.Client.App"
         }
       },
       {
-        "HashCode": 958552784,
+        "HashCode": -29592111,
         "Kind": "Components.Component",
-        "Name": "ProjetCourbe.Client.Pages.Index",
+        "Name": "ProjetCourbe.Client.App",
         "AssemblyName": "ProjetCourbe.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "ProjetCourbe.Client.Pages.Index"
+            "TagName": "ProjetCourbe.Client.App"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "ProjetCourbe.Client.Pages.Index",
+          "Common.TypeName": "ProjetCourbe.Client.App",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -206,35 +206,35 @@
         }
       },
       {
-        "HashCode": -852698727,
+        "HashCode": -1621952229,
         "Kind": "Components.Component",
-        "Name": "ProjetCourbe.Client.App",
+        "Name": "ProjetCourbe.Client.Pages.Index",
         "AssemblyName": "ProjetCourbe.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "App"
+            "TagName": "Index"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "ProjetCourbe.Client.App"
+          "Common.TypeName": "ProjetCourbe.Client.Pages.Index"
         }
       },
       {
-        "HashCode": -29592111,
+        "HashCode": 958552784,
         "Kind": "Components.Component",
-        "Name": "ProjetCourbe.Client.App",
+        "Name": "ProjetCourbe.Client.Pages.Index",
         "AssemblyName": "ProjetCourbe.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "ProjetCourbe.Client.App"
+            "TagName": "ProjetCourbe.Client.Pages.Index"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "ProjetCourbe.Client.App",
+          "Common.TypeName": "ProjetCourbe.Client.Pages.Index",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },

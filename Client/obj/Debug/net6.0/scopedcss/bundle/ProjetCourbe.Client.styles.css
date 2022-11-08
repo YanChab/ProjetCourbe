@@ -50,9 +50,11 @@ main[b-uj3ulvozbv] {
 }
 
 .sidebar[b-uj3ulvozbv] {
-    background-image: linear-gradient(180deg, rgb(5, 39, 103) 0%, #3a0647 70%);
+    background-image: linear-gradient(0deg, rgba(120,98,47,1) 0%, rgba(153,119,68,1) 50%, rgba(120,98,47,1) 100%);
     width: 250px;
-    height: 100vh;
+    position: absolute;
+    top:10px;
+    left: 10px;
 }
 
 
@@ -62,6 +64,27 @@ main[b-uj3ulvozbv] {
 
 
 /* /Shared/NavMenu.razor.rz.scp.css */
+menu[b-o9fkg249f0]{
+    min-height: 50px;
+    display: flex;
+    flex-flow: column;
+
+}
+
+nav[b-o9fkg249f0]{
+    display: block;
+}
+
+.CollapseMenu[b-o9fkg249f0]{
+    display: none;
+}
+.titre[b-o9fkg249f0]{
+    display: flex;
+    height: 50px;
+    justify-content: center;
+    align-items: center;
+}
+
 .nav-item[b-o9fkg249f0] {
     font-size: 0.9rem;
     padding-bottom: 0.5rem;

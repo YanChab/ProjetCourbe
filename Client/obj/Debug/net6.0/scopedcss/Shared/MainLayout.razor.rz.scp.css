@@ -9,9 +9,11 @@ main[b-uj3ulvozbv] {
 }
 
 .sidebar[b-uj3ulvozbv] {
-    background-image: linear-gradient(180deg, rgb(5, 39, 103) 0%, #3a0647 70%);
+    background-image: linear-gradient(0deg, rgba(120,98,47,1) 0%, rgba(153,119,68,1) 50%, rgba(120,98,47,1) 100%);
     width: 250px;
-    height: 100vh;
+    position: absolute;
+    top:10px;
+    left: 10px;
 }
 
 

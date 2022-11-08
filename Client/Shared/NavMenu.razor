@@ -1,6 +1,9 @@
 ﻿
-<div>
-    <nav>
+<menu @onmouseover="ExpandMenu" @onmouseout="RetractMenu">
+    <div class="titre">
+        Menu
+    </div>
+    <nav class="@NavMenuCss">
         <div class="nav-item">
             <NavLink href="" Match="NavLinkMatch.All">
                 <span></span> Home
@@ -32,8 +35,18 @@
             </NavLink>
         </div>
     </nav>
-</div>
+</menu>
 
 @code {
+    private bool collapseMenu=true;
+    private string? NavMenuCss => collapseMenu ? "CollapseMenu" : null;
+    private void ExpandMenu(){
+        collapseMenu=false;
+    }
+    private void RetractMenu(){
+        collapseMenu=true;
+    }
+
+
    
 }
