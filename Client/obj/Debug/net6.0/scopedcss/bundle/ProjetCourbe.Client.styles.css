@@ -1,3 +1,43 @@
+/* /Pages/Index.razor.rz.scp.css */
+.fond[b-jppxx0uy8l]{
+    background-color: rgb(196, 244, 235);
+    height: 100vh;
+    display: flex;
+    flex-flow: column wrap;
+}
+h1[b-jppxx0uy8l]{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.sectionLogIn[b-jppxx0uy8l]{
+    margin: 5px;
+    background-color: rgb(169, 156, 243);
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-items: center;
+    flex-grow: 1;border-radius: 50% 0% 50% 50%/10% 0% 20% 10%;
+}
+.selectionActivite[b-jppxx0uy8l]{
+    margin: 5px;
+    background-color: rgb(180, 244, 127);
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-items: stretch;
+    flex-grow: 2;
+}
+
+.cube[b-jppxx0uy8l]{
+    background-color: rgb(59, 124, 6);
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
 /* /Shared/MainLayout.razor.rz.scp.css */
 .page[b-uj3ulvozbv] {
     position: relative;
@@ -22,24 +62,6 @@ main[b-uj3ulvozbv] {
 
 
 /* /Shared/NavMenu.razor.rz.scp.css */
-/* .navbar-toggler {
-    background-color: rgba(255, 255, 255, 0.1);
-} */
-
-.top-row[b-o9fkg249f0] {
-    height: 3.5rem;
-    background-color: rgba(0,0,0,0.4);
-}
-
-
-
-.oi[b-o9fkg249f0] {
-    width: 2rem;
-    font-size: 1.1rem;
-    vertical-align: text-top;
-    top: -2px;
-}
-
 .nav-item[b-o9fkg249f0] {
     font-size: 0.9rem;
     padding-bottom: 0.5rem;
@@ -58,8 +80,10 @@ main[b-uj3ulvozbv] {
         border-radius: 4px;
         height: 3rem;
         display: flex;
+        justify-content: center;
         align-items: center;
         line-height: 3rem;
+        width: 100%;
     }
 
 .nav-item[b-o9fkg249f0]  a.active {

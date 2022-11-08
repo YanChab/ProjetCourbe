@@ -821,3 +821,4 @@
 /Users/yanchabrerie/Projects/ProjetCourbe/Client/obj/Debug/net6.0/refint/ProjetCourbe.Client.dll
 /Users/yanchabrerie/Projects/ProjetCourbe/Client/obj/Debug/net6.0/ProjetCourbe.Client.pdb
 /Users/yanchabrerie/Projects/ProjetCourbe/Client/obj/Debug/net6.0/ref/ProjetCourbe.Client.dll
+/Users/yanchabrerie/Projects/ProjetCourbe/Client/obj/Debug/net6.0/scopedcss/Pages/Index.razor.rz.scp.css

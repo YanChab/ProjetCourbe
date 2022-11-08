@@ -22,17 +22,33 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/yanchabrerie/Projects/ProjetCourbe/Client/Pages/Counter.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ291bnRlci5yYXpvcg==
+[/Users/yanchabrerie/Projects/ProjetCourbe/Client/Pages/Admin.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWRtaW4ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/yanchabrerie/Projects/ProjetCourbe/Client/Pages/Index.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXgucmF6b3I=
+[/Users/yanchabrerie/Projects/ProjetCourbe/Client/Pages/Courbe.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ291cmJlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/yanchabrerie/Projects/ProjetCourbe/Client/Pages/GestionProjet.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvR2VzdGlvblByb2pldC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/yanchabrerie/Projects/ProjetCourbe/Client/Pages/TestProjet.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVGVzdFByb2pldC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/yanchabrerie/Projects/ProjetCourbe/Client/Pages/Tolerance.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVG9sZXJhbmNlLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/yanchabrerie/Projects/ProjetCourbe/Client/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/yanchabrerie/Projects/ProjetCourbe/Client/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-jppxx0uy8l
 
 [/Users/yanchabrerie/Projects/ProjetCourbe/Client/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL01haW5MYXlvdXQucmF6b3I=
